@@ -28,6 +28,15 @@ void main(List<String> arguments) {
   final nombreCompleto= "felipe rivas"; // Utilizamos este tipo de variable para cuando yo llamo a "cosas"
   const clave= 123; // se utiliza para "cosas" que yo mismo ingreso manualmente
 
-
+  //------------Aprendemos a usar las opereaciones matematicas------------
+  int a=5;
+  int b=5;
+  int result =a+b; //suma
+  //int result =a  -b; //resta
+  //int result =a*b; //multiplicacion
+  //int result =a/b; //division
+  //int result =a~/b; //division sin decimal
+  print("Resultado es: $result");
 
 }
+ 
